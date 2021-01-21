@@ -31,6 +31,6 @@ switch (num) {
         console.log('В точку!');
         break;
     default:
-        console.log('Не в этот раз');
+        console.log('Не в этот раз!');
         break;
 }
